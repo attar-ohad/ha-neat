@@ -1,0 +1,10 @@
+{
+  "domain": "neat_pulse",
+  "name": "Neat Pulse",
+  "version": "2.1.0",
+  "documentation": "https://neat.no",
+  "requirements": [],
+  "dependencies": [],
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}
